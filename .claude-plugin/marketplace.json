@@ -1,0 +1,13 @@
+{
+  "name": "openfoam-claude-suite",
+  "owner": {
+    "name": "Sangwoo Kim"
+  },
+  "plugins": [
+    {
+      "name": "openfoam",
+      "source": "./",
+      "description": "OpenFOAM v2412 CFD automation suite: of-sim / of-post / of-doctor / of-setup"
+    }
+  ]
+}

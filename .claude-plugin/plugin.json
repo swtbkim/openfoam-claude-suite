@@ -1,0 +1,16 @@
+{
+  "name": "openfoam",
+  "displayName": "OpenFOAM CFD Suite",
+  "version": "0.1.0",
+  "description": "Natural-language OpenFOAM v2412 CFD automation for Claude Code: simulate (of-sim), post-process (of-post), diagnose failures (of-doctor), one-time machine setup (of-setup)",
+  "author": {
+    "name": "Sangwoo Kim"
+  },
+  "license": "MIT",
+  "keywords": [
+    "openfoam",
+    "cfd",
+    "simulation",
+    "wsl"
+  ]
+}
