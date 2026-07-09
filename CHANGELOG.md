@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 (unreleased)
+## 0.1.0
 
 - Initial packaging of the OpenFOAM CFD suite as a Claude Code plugin:
   of-sim, of-post, of-doctor, plus new one-time /of-setup.

@@ -189,6 +189,10 @@ apply.
   (coarser mesh, shorter endTime, steady approximation) before starting, or
   picks it and says so under `--auto`.
 
+## Contribution
+
+Issue, PR
+
 ## License
 
 MIT - see [LICENSE](LICENSE).
