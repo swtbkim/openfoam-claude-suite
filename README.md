@@ -44,7 +44,7 @@ git-clone install, where edits persist and are version-controlled.
 ### Route 1 (recommended): git clone, editable and self-improving
 
 ```
-git clone https://github.com/<github-user>/openfoam-claude-suite ~/.claude/skills/openfoam-claude-suite
+git clone https://github.com/swtbkim/openfoam-claude-suite ~/.claude/skills/openfoam-claude-suite
 ```
 
 (Windows: clone to `C:/Users/<you>/.claude/skills/openfoam-claude-suite`.)
@@ -67,7 +67,7 @@ self-improvement commits - prefer the clone.
 ### Route 2: plugin marketplace
 
 ```
-claude plugin marketplace add <github-user>/openfoam-claude-suite
+claude plugin marketplace add swtbkim/openfoam-claude-suite
 claude plugin install openfoam@openfoam-claude-suite
 ```
 

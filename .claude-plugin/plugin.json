@@ -7,6 +7,8 @@
     "name": "Sangwoo Kim"
   },
   "license": "MIT",
+  "repository": "https://github.com/swtbkim/openfoam-claude-suite",
+  "homepage": "https://github.com/swtbkim/openfoam-claude-suite",
   "keywords": [
     "openfoam",
     "cfd",
